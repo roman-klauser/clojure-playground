@@ -1,0 +1,6 @@
+Datum;Wertstellung;Kategorie;Name;Verwendungszweck;Konto;Bank;Betrag;Währung
+15.02.19;18.02.19;;Stadtkasse Münster;7712.0009.2825, Umsatzart: Überweisung;DE10400501500000000752;WELADED1MST;-233,00;EUR
+15.02.19;15.02.19;;Sparkasse Muensterland Ost;LVM//Sparkasse Muensterland Ost/DE Terminal 00002212 2019-02-14T12:12:58 Folgenr. 02 Verfalld. 2112, Umsatzart: Auszahlung Geldautomat, Referenz: 00002212019132140219121258, Mandat: 150310, Gläubiger-ID: DE47GAA00000078566;DE06400501500900481409;WELADED1MST;-80,00;EUR
+13.02.19;13.02.19;;A3310F03 Muenster;Stadt Muenster - Stadtkasse//Muenster/DE Terminal 54315061 2019-02-12T16:22:57 Folgenr. 02 Verfalld. 2112, Umsatzart: Kartenzahlung, Referenz: 54315061013452120219162257, Gläubiger-ID: DE93ZZZ00000020799;DE34400501500000553123;WELADED1MST;-98,80;EUR
+13.02.19;13.02.19;;Poertgen Herder;Thalia-Buchhandlung//Hagen/DE Terminal 53505056 2019-02-12T15:48:33 Folgenr. 02 Verfalld. 2112, Umsatzart: Kartenzahlung, Referenz: 53505056077175120219154833, Gläubiger-ID: DE7600000000265254;DE65300500000001012749;WELADEDD;-24,94;EUR
+13.02.19;13.02.19;;Picturepeople Münster;Picturepeople MÜNSTER//Muenster/DE Terminal 55548012 2019-02-12T15:23:56 Folgenr. 02 Verfalld. 2112, Umsatzart: Kartenzahlung, Referenz: 55548012025869120219152356, Gläubiger-ID: DE40ZZZ00001537378;DE39430700240166196600;DEUTDEDB430;-18,00;EUR

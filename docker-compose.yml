@@ -1,0 +1,17 @@
+version: '3'
+services:
+    mongo:
+        image: 'mongo'
+
+    http-server:
+        build: .
+        depends_on:
+          - mongo
+        ports:
+          - "8080:8080"
+        restart: always
+
+#    react-docker:
+#      image: 'react-docker'
+#      ports:
+#        - "3001:80"
